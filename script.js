@@ -25,6 +25,12 @@ const bookmarks = [
         icon: "fa-solid fa-microphone",
         description: "Tools to input PGN with voice support"
     },
+    {
+        name: "Check Clock",
+        url: "https://chess-clock.truongthings.dev/",
+        icon: "fa-solid fa-clock",
+        description: "A simple chess clock for playing OTB chess games"
+    },
     // {
     //     name: "GitHub",
     //     url: "https://github.com",
