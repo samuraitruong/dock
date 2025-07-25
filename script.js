@@ -21,7 +21,7 @@ const bookmarks = [
     },
     {
         name: "Pgn Editor (Voice support)",
-        url: "https://pvi.truongthings.dev/",
+        url: "https://pvi.chess.truongthings.dev/",
         icon: "fa-solid fa-microphone",
         description: "Tools to input PGN with voice support"
     },
@@ -30,73 +30,8 @@ const bookmarks = [
         url: "https://chess-clock.truongthings.dev/",
         icon: "fa-solid fa-clock",
         description: "A simple chess clock for playing OTB chess games"
-    },
-    // {
-    //     name: "GitHub",
-    //     url: "https://github.com",
-    //     icon: "fa-brands fa-github",
-    //     description: "Where the world builds software"
-    // },
-    // {
-    //     name: "YouTube",
-    //     url: "https://www.youtube.com",
-    //     icon: "fa-brands fa-youtube",
-    //     description: "Share and watch videos"
-    // },
-    // {
-    //     name: "Twitter",
-    //     url: "https://twitter.com",
-    //     icon: "fa-brands fa-twitter",
-    //     description: "See what's happening in the world"
-    // },
-    // {
-    //     name: "LinkedIn",
-    //     url: "https://www.linkedin.com",
-    //     icon: "fa-brands fa-linkedin",
-    //     description: "Manage your professional identity"
-    // },
-    // {
-    //     name: "Stack Overflow",
-    //     url: "https://stackoverflow.com",
-    //     icon: "fa-brands fa-stack-overflow",
-    //     description: "Where developers learn and share knowledge"
-    // },
-    // {
-    //     name: "Reddit",
-    //     url: "https://www.reddit.com",
-    //     icon: "fa-brands fa-reddit",
-    //     description: "The front page of the internet"
-    // },
-    // {
-    //     name: "Amazon",
-    //     url: "https://www.amazon.com",
-    //     icon: "fa-brands fa-amazon",
-    //     description: "Online shopping for electronics, apparel, and more"
-    // },
-    // {
-    //     name: "Netflix",
-    //     url: "https://www.netflix.com",
-    //     icon: "fa-brands fa-netflix",
-    //     description: "Watch TV shows and movies"
-    // },
-    // {
-    //     name: "Spotify",
-    //     url: "https://www.spotify.com",
-    //     icon: "fa-brands fa-spotify",
-    //     description: "Music for everyone"
-    // },
-    // {
-    //     name: "Facebook",
-    //     url: "https://www.facebook.com",
-    //     icon: "fa-brands fa-facebook",
-    //     description: "Connect with friends and the world"
-    // },
-    // {
-    //     name: "Instagram",
-    //     url: "https://www.instagram.com",
-    //     icon: "fa-brands fa-instagram",
-    //     description: "Photos and videos from friends"
-    // }
+    }
+
 ];
 
 // Function to create a bookmark card element
