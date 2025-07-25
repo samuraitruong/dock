@@ -19,6 +19,12 @@ const bookmarks = [
         icon: "fa-solid fa-chess-board",
         description: "Free daily chess.com puzzle"
     },
+    {
+        name: "Pgn Editor (Voice support)",
+        url: "https://pvi.truongthings.dev/",
+        icon: "fa-solid fa-microphone",
+        description: "Tools to input PGN with voice support"
+    },
     // {
     //     name: "GitHub",
     //     url: "https://github.com",
