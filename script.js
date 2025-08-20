@@ -1,6 +1,13 @@
 // Bookmark data - Edit this section to add, remove or modify bookmarks
 const bookmarks = [
     {
+        name: "Fide Rating By Federation",
+        url: "https://fide-fed-rating.truongthings.dev/",
+        icon: "fa-brands fa-google",
+        description: "The simple data breakdown of FIDE ratings by federation"
+    },
+
+    {
         name: "Fide Calculator",
         url: "https://fide-calc.truongthings.dev/",
         icon: "fa-brands fa-google",
