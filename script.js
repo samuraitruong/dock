@@ -1,5 +1,11 @@
 // Bookmark data - Edit this section to add, remove or modify bookmarks
 const bookmarks = [
+     {
+        name: "Chess Trainer",
+        url: "https://chesstrainer.truongthings.dev/",
+        icon: "fa-brands fa-google",
+        description: "A progessive chess training tool"
+    },
     {
         name: "Fide Rating By Federation",
         url: "https://fide-fed-rating.truongthings.dev/",
